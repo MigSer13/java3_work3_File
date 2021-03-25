@@ -12,14 +12,14 @@ public class Main {
 
     public static void main(String[] args) {
         //Task 1
-//	   readFileInBytes();
-//     readFileInBytesWhith_UTF8();
+	   readFileInBytes();
+//	   readFileInBytesWhith_UTF8();
 
         //Task 2
 //        makeFromMultipleFiles();
 
         //Task 3
-        consoleApplication();
+//        consoleApplication();
     }
 
     private static void consoleApplication()
